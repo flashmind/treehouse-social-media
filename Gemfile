@@ -7,7 +7,8 @@ gem 'rails', '3.2.12'
 
 gem 'sqlite3'
 
-
+# Use Devise for authentidation system
+gem 'devise', '3.0.0rc'
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
